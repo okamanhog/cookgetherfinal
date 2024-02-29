@@ -2,7 +2,7 @@
 
 ## About Cookgether
 
-Cookgether is a cutting-edge app designed for cooking enthusiasts to build a vibrant community and generate AI-powered personalized recipes. It offers an innovative platform for users to share recipes, engage with the community, and make the most of leftover food, all while exploring new culinary experiences tailored to individual preferences and needs.
+Cookgether is a cutting-edge app designed for cooking enthusiasts to build a vibrant community based on AI-generated personalized recipes. It offers an innovative platform for users to try new food based on your own ingredients and preferences, share these recipes, engage with the community and make the most of leftover food. 
 
 ## Features
 
@@ -66,6 +66,11 @@ Visit our public link at [https://cookgether-project.streamlit.app/](https://coo
 6. **Share Recipes**: After you created your first recipes, you can go back to our community page and start sharing those recipes. Along that you can add an image of how it looked in the end, rate it and write a few sentences to let other users know what to expect when trying this AI recipe.
 7. **Participate in Food Sharing**: Contribute to sustainability by sharing or claiming leftover foods in our food sharing section.
 
+### Common Issues and How to Deal With Them
+
+1. **Buttons Do Not React**: We use double click for our app. If a button does not react, click again and it should work as expected.
+2. **The Generated Recipe Disappears after Pressing Download**: Don't panic, the recipe is automatically saved in your profile and downloaded as a .txt file to your computer.
+3. **"http.client.CannotSendRequest"**: This error is caused by deta and unfortanely out of our control as it happens irregularly. It is [known]([https://cookgether-project.streamlit.app/](https://discuss.streamlit.io/t/error-https-client-cannot-sendrequest-deta-database-or-google-sheet-api/42107)) but there is no known solution yet. You can try rerunning the app. If that does not work, please contact us and we will reboot the app so it will work again.
 
 Built by [Sum](https://github.com/SumSumarie) and [Lennart](https://github.com/okamanhog)
 
