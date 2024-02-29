@@ -70,7 +70,7 @@ Visit our public link at [https://cookgether-project.streamlit.app/](https://coo
 
 1. **Buttons Do Not React**: We use double click for our app. If a button does not react, click again and it should work as expected.
 2. **The Generated Recipe Disappears after Pressing Download**: Don't panic, the recipe is automatically saved in your profile and downloaded as a .txt file to your computer.
-3. **"http.client.CannotSendRequest"**: This error is caused by deta and unfortanely out of our control as it happens irregularly. It is [known]([https://cookgether-project.streamlit.app/](https://discuss.streamlit.io/t/error-https-client-cannot-sendrequest-deta-database-or-google-sheet-api/42107)) but there is no known solution yet. You can try rerunning the app. If that does not work, please contact us and we will reboot the app so it will work again.
+3. **"http.client.CannotSendRequest"**: This error is caused by deta and unfortanely out of our control as it happens irregularly. It is [known](https://discuss.streamlit.io/t/error-https-client-cannot-sendrequest-deta-database-or-google-sheet-api/42107) but there is no known solution yet. You can try rerunning the app. If that does not work, please contact us and we will reboot the app so it will work again.
 
 Built by [Sum](https://github.com/SumSumarie) and [Lennart](https://github.com/okamanhog)
 
