@@ -1,3 +1,4 @@
 openai==1.6.1
 streamlit-option-menu==0.3.6
 st-star-rating==0.0.6
+deta==1.2.0
