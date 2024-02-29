@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-# Reference: We used ChatGPT to make our About Page better readable.
+# Reference: We used ChatGPT to make our about page better readable.
 def about_page():
     st.title("About Cookgether")
     st.markdown("""
