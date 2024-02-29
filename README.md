@@ -73,5 +73,3 @@ Visit our public link at [https://cookgether-project.streamlit.app/](https://coo
 3. **"http.client.CannotSendRequest"**: This error is caused by deta and unfortanely out of our control as it happens irregularly. It is [known](https://discuss.streamlit.io/t/error-https-client-cannot-sendrequest-deta-database-or-google-sheet-api/42107) but there is no known solution yet. You can try rerunning the app. If that does not work, please contact us and we will reboot the app so it will work again.
 
 Built by [Sum](https://github.com/SumSumarie) and [Lennart](https://github.com/okamanhog)
-
-Our app can be found [here]([https://cookgether.streamlit.app](https://cookgether-project.streamlit.app/)https://cookgether-project.streamlit.app/).
