@@ -72,4 +72,10 @@ Visit our public link at [https://cookgether-project.streamlit.app/](https://coo
 2. **The Generated Recipe Disappears after Pressing Download**: Don't panic, the recipe is automatically saved in your profile and downloaded as a .txt file to your computer.
 3. **"http.client.CannotSendRequest"**: This error is caused by deta and unfortanely out of our control as it happens irregularly. It is [known](https://discuss.streamlit.io/t/error-https-client-cannot-sendrequest-deta-database-or-google-sheet-api/42107) but there is no known solution yet. You can try rerunning the app. If that does not work, please contact us and we will reboot the app so it will work again.
 
+### Acknowledgements and Sources
+
+1. **Star Rating System**: Thanks to [Tian](https://discuss.streamlit.io/t/new-component-star-ratings/36829/1) for this streamlit module and the example app, so we could integrate it in our app to rate recipes.
+2. **General Help**: Thanks to Moritz from the Digital Media Lab for helping us with our issue, especially regarding the functionality of posting and updating specific information from our dataframe to our online detabase.
+3. **Other Sources**: We linked all sources we have used as comments above where they have been used.
+
 Built by [Sum](https://github.com/SumSumarie) and [Lennart](https://github.com/okamanhog)
